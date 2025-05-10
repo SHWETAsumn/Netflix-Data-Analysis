@@ -1,0 +1,31 @@
+Business Requirement:-
+The business requirement is to analyze Netflix’s data to understand the distribution and trends of shows and movies available on the platform. 
+This includes examining the number of titles by release year, genre, rating, and country.
+
+
+User Story
+As a data analyst, I want to generate a comprehensive report on Netflix’s content library so that stakeholders can make informed decisions about content acquisition and marketing strategies.
+
+The dashboard includes several visualizations:
+
+World Map: Shows the distribution of titles by country.
+Bar Chart: Titled “Rating By Shows,” displaying counts of titles by different ratings.
+Pie Chart: Labeled “Movies And TV Shows,” showing the distribution between movies and TV shows.
+Bar Chart: Titled “Genre By Shows,” displaying counts of titles by different genres.
+Line Graph: Titled “Total Shows By Release Year,” showing the count of titles released over time.
+Navigation Buttons: On the left side labeled HOME, MOVIES, SHOWS, REFRESH.
+Detailed Visualizations
+Total Shows By Release Year (Line Graph):
+X-axis: Release year (from 1940 to 2020)
+Y-axis: Count of titles
+Rating By Shows (Bar Chart):
+TV MA: 3.2K
+TV 14: 2.2K
+R: 0.9K
+PG-13: 0.8K
+Movies And TV Shows (Pie Chart):
+Movie: 69%
+TV Show: 31%
+Genre By Shows (Bar Chart):
+Dramas: ~1.6K
+Comedies: ~1K
